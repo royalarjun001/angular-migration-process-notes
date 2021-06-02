@@ -95,7 +95,7 @@ _existing reference_
 ```
 
 _updated reference_
-```.html
+```.ts
  import './vendor/jquery.min';
  import './vendor/toaster.min';
 ...
